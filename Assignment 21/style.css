@@ -1,0 +1,26 @@
+body{
+    background-image:url("https://45.media.tumblr.com/b7fc0905bbb7cbb4175a8792028c8c10/tumblr_njqg8q30PG1tcuj64o1_400.gif") ;
+    text-align: center;
+    border-radius: 400px;
+    border: dotted yellow 400px;
+}
+.heading{
+    color:white;
+    font-size: 100px;
+    border: solid 10px white;
+}
+.heading2{
+    color: deepskyblue;
+    font-size: 50px;
+    border: double 5px deepskyblue;
+}
+.list{
+    color:magenta;
+    font-size: 25px;
+    border: inset 20px green;
+}
+.heading3{
+    border: maroon solid 20px ;
+    font-size: 50px;
+    color: mediumseagreen;
+}
